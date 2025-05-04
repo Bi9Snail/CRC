@@ -1,0 +1,9 @@
+{
+  "name": "CERs Coin",
+  "symbol": "CRC",
+  "description": "A utility coin based on the DePIN concept that rewards users for their contributions toward carbon neutrality through carbon emission projects funded by the STO-based DOROTHY token.",
+  "extensions": {
+  },
+  "tags": ["DePIN", "Utility", "Carbon"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/CRC/main/CRC_logo.png"
+}
