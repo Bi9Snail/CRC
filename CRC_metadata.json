@@ -3,7 +3,8 @@
   "symbol": "CRC",
   "description": "A utility coin based on the DePIN concept that rewards users for their contributions toward carbon neutrality through carbon emission projects funded by the STO-based DOROTHY token.",
   "extensions": {
+    "website" : "https://dorothydefi.my.canva.site/"
   },
-  "tags": ["DePIN", "Utility", "Carbon"],
+  "tags": ["DePIN", "Utility", "Carbon", "DRT"],
   "image": "https://raw.githubusercontent.com/Bi9Snail/CRC/main/CRC_logo.png"
 }
